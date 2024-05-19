@@ -1,4 +1,4 @@
-# 
+# NaijaRC
 [NaijaRC: A Multi-choice Reading Comprehension Dataset for Nigerian Languages](https://arxiv.org/abs/2308.09768)
 
 ### license: 
