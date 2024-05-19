@@ -1,17 +1,21 @@
 # NaijaRC
+
+### license: 
+cc-by-nc-4.0
+
+### Languages
+There are 3 languages available : Hausa (ha), Igbo (ig) and Yoruba (yo). 
+
+## Dataset
 Dataset can be found at:https://huggingface.co/datasets/aremuadeolajr/NaijaRC
-  
-license: cc-by-nc-4.0
 
-language:
-  - ig
-  - yo
-  - ha
 
+### Data Instances
+The examples look like this for English:
+```
 from datasets import load_dataset
-
-
 data = load_dataset('aremuadeolajr/NaijaRC', 'yor')
 # Please, specify the language code
-
+# A data point example is below:
+```
 
